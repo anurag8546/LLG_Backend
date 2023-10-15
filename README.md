@@ -2,7 +2,7 @@
 
 ## Run the server first using the following steps in your local enviornment. 
 
-### 'npm install'
+### `npm install`
 Install npm in your development enviornment. 
 
 ### `npm start server.js`
